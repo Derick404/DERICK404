@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-*# Hi, I'm Decko 👋
+*# Hi, I'm DeRICK👋
 
 💻 Web Developer | 🚀 Learning Node.js & Express | 🌍 From Kenya  
 
