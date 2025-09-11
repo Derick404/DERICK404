@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-*# Hi, I'm DeRICK👋
+*# Hi, I'm Derick👋
 
 💻 full stack Developer | 🌍 From Kenya  
 
