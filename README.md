@@ -2,10 +2,10 @@
 
 *# Hi, I'm DeRICK👋
 
-💻 Web Developer | 🚀 Learning Node.js & Express | 🌍 From Kenya  
+💻 full stack Developer | 🌍 From Kenya  
 
 ### About Me
-- 🔭 Currently working on a billing system project  
+- 🔭 Currently working on a billing system for an upcoming project  
 - 🌱 Exploring APIs and WebSockets  
 - ⚡ Fun fact: I love turning old hardware into art  
 
