@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
 *# Hi, I'm DeRICK👋
 
 💻 Web Developer | 🚀 Learning Node.js & Express | 🌍 From Kenya  
