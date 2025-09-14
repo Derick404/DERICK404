@@ -1,7 +1,5 @@
-## Hello there 👋
 
-*# Hi, I'm Derick👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Derick)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Derick👋)
 
 
 full stack Developer | From Kenya  
