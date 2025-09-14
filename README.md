@@ -1,13 +1,12 @@
 ## Hello there 👋
 
 *# Hi, I'm Derick👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Derick)
 
-💻 full stack Developer | 🌍 From Kenya  
 
-### About Me
-- 🔭 Currently working on a billing system for an upcoming project  
-- 🌱 Exploring APIs and WebSockets  
-- ⚡ Fun fact: I love turning old hardware into art  
+full stack Developer | From Kenya  
+
+ 
 
 ### Things I code with
 
