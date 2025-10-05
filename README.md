@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Derick👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Derick....)
 
 ![Profile views](https://img.shields.io/badge/Profile%20Views-573-blue)
 
