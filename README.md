@@ -3,7 +3,7 @@
 
 ![Profile views](https://img.shields.io/badge/Profile%20Views-573-blue)
 
-full stack Developer | From Kenya  
+Backend  Developer | From Kenya  
 
  
 
